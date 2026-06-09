@@ -63,4 +63,4 @@ conda install -c conda-forge rdkit xtb
 pip install pyscf pyscf-dispersion matplotlib ase pubchempy
 
 # Run the notebook
-jupyter notebook PFAS_benchmark.ipynb
+jupyter notebook PFAS_GFN2_xTB.ipynb
