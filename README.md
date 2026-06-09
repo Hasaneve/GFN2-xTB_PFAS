@@ -16,7 +16,7 @@ Using the GFN2‑xTB semi‑empirical tight‑binding method with ALPB implicit 
 
 ### Key Findings
 
-- **Adsorption energies** range from **−11.3 kcal mol⁻¹** (TFA, C2 carboxylate) to **−18.3 kcal mol⁻¹** (PFOS, C8 sulfonate) on pristine circumcoronene.
+- **Adsorption energies** range from **−11.3 kcal mol⁻¹** (TFA and PFPrA, C2–C3 carboxylates) to **−18.3 kcal mol⁻¹** (PFOS, C8 sulfonate) on pristine circumcoronene.
 - **Perfluorosulfonates** adsorb **1.5–4 kcal mol⁻¹ more strongly** than perfluorocarboxylates at every chain length.
 - **C1–C4 PFAS** exhibit **pure physisorption** (charge transfer < 0.01 e), while **C8 homologs** show **partial chemisorption** (PFOA: +0.161 e, PFOS: +0.173 e).
 - **Surface hydroxylation** imposes a **uniform penalty of +4.8 to +5.2 kcal mol⁻¹**, independent of chain length or headgroup.
